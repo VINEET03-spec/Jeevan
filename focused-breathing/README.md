@@ -5,11 +5,6 @@
 1. Hold for 2 seconds
 1. Release through the mouth for 4 seconds
 1. Repeat
-
-**focused breathing** can be viewed at [shannoncrabill.com/focused-breathing](http://www.shannoncrabill.com/focused-breathing)
-
-![](img/focused-breathing-demo.gif)
-
 ## license
 
 MIT License
